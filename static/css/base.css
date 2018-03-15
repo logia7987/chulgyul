@@ -1,0 +1,40 @@
+h1.mainTitle {
+    border-bottom : 1px solid #e4e4e4;
+}
+div.dateCal {
+    width :50em;
+    margin:auto;
+}
+.today {
+    background-color: #e4e4e4;
+}
+table {
+    width : 50em;
+}
+th, td { border: 1px solid #c4c4c4; }
+td { text-align: center; height: 4.5em;}
+td:hover {
+    background-color: #c4c4c4;
+}
+a {
+    text-decoration: none;
+    color: orangered;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+form > ul {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+form > ul li {
+    margin: 5px 0;
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding: 5px;
+}
